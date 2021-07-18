@@ -1,8 +1,5 @@
 # Predicting-ad-impressions-in-mobile-game
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2455f923-8fce-41fa-8a6a-b95584ee2f4e/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2455f923-8fce-41fa-8a6a-b95584ee2f4e/Untitled.png)
-
-**Figure 1** Overview design of the proposed system development
 
 # 1. Target Selection
 
@@ -55,8 +52,6 @@ train에 포함된 ad_id를 가지고
 각 event에서 ['device_is_limited_ad_tracking'] == 'True'인 ad_id 제거
 
 ## Step1) 엑셀시트에 나와있는 컬럼 추출
-
-[https://drive.google.com/file/d/1w0gzVq-K8vcYnn73HCQB3zS2C8Cum_-2/view](https://drive.google.com/file/d/1w0gzVq-K8vcYnn73HCQB3zS2C8Cum_-2/view)
 
 ## Step2) 연속형, 카테고리형 데이터 파악
 
