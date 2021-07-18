@@ -1,5 +1,5 @@
-# Predicting-ad-impressions-in-mobile-game
 
+# Predicting-ad-impressions-in-mobile-game
 
 # 1. Target Selection
 
@@ -53,6 +53,11 @@ train에 포함된 ad_id를 가지고
 
 ## Step1) 엑셀시트에 나와있는 컬럼 추출
 
+<<<<<<< HEAD
+=======
+[https://drive.google.com/file/d/1w0gzVq-K8vcYnn73HCQB3zS2C8Cum_-2/view](https://drive.google.com/file/d/1w0gzVq-K8vcYnn73HCQB3zS2C8Cum_-2/view)
+
+>>>>>>> 0af88e207e5003835c9f6d600754655fb0709af9
 ## Step2) 연속형, 카테고리형 데이터 파악
 
 - 데이터 변형
@@ -239,4 +244,8 @@ session_start_date - day0 date (tutorial)
 
 # 6. Evaluate model
 
+<<<<<<< HEAD
 # 7. Develop Model
+=======
+# 7. Develop Model
+>>>>>>> 0af88e207e5003835c9f6d600754655fb0709af9
