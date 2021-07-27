@@ -244,8 +244,5 @@ session_start_date - day0 date (tutorial)
 
 # 6. Evaluate model
 
-<<<<<<< HEAD
 # 7. Develop Model
 =======
-# 7. Develop Model
->>>>>>> 0af88e207e5003835c9f6d600754655fb0709af9
