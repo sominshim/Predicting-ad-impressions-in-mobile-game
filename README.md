@@ -232,11 +232,7 @@ session_start_date - day0 date (tutorial)
 
 1. correlation → 1차 feature selection
 
-    ---
-
     merge event
-
-    ---
 
 2. embedded method → 2차 feature selection
 
@@ -245,4 +241,3 @@ session_start_date - day0 date (tutorial)
 # 6. Evaluate model
 
 # 7. Develop Model
-=======
